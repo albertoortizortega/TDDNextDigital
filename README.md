@@ -1,1 +1,1 @@
-## Proyecto aplicando TDD (taller de Next Digital)
+## Proyecto aplicando TDD + Sonarqube (taller de Next Digital)
